@@ -1,0 +1,1 @@
+report_date_format ='^\d{2}-[A-Za-z]{3}-\3{4}$'  # dd-MMM-yyyy
