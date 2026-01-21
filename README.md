@@ -23,9 +23,11 @@ A lightweight GUI built with Tkinter allows users to:
 The project is functionally complete.  
 The current implementation follows a step-by-step modelling approach, which may become computationally expensive for large-scale datasets.
 
-Potential future improvements include performance optimization using vectorization or concurrent execution (e.g. `concurrent.futures`).
+Certain level enhancement (data restructure, parallelism, etc.
 
 The current version reflects recent independent refactoring work:
 - Migration from legacy Jupyter Notebook workflows to a standalone GUI application
 - Extension from Vasicek-only modelling to support Hull–White short-rate dynamics
+- Data Restructuring
+- Parallelism
 
